@@ -4340,7 +4340,7 @@ body .wrap {
 .second_block .img_bg {
     position: relative;
     height: 569px;
-    background-image: url(../img/sample-bg.jpg);
+    background-image: url(../img/sampleBg.jpg);
     background-size: cover;
     background-position: center center;
     z-index: -2;
